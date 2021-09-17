@@ -1,0 +1,21 @@
+h1
+{color:red;
+background-color:aqua;}
+
+p
+{color:rgb(23,44,16);
+background-color:pink;}
+
+body{
+  background-color: blue;
+  background: url(https://cutewallpaper.org/21/full-hd-background/KT-Photography-cb-backgrounds-Full-hd-2017-2018.jpg);
+  background-repeat:no-repeat;
+}
+
+div{
+  color:silver;
+  background-color:rgb(253,64,28);
+  border-color:solid black;
+  border-width:thick 100px;
+  border-style:dotted;
+}

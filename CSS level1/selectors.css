@@ -1,0 +1,38 @@
+body{
+  background-color: orange;
+}
+
+
+
+h1
+
+  {color:green;
+  background-color:black;}
+
+p
+
+{color:rgb(23,44,16);
+background-color:pink;}
+
+.firstdiv{
+  background-color: blue;
+  background: url(https://wallpaperaccess.com/full/1209562.jpg);
+
+}
+.seconddiv{
+background-color:rgb(253,64,28);
+border-color:solid black;
+}
+h1
+{
+  color:red;
+  background-color:yellow;
+
+}
+li{
+  background:#07702a;
+}
+{
+  color:#080770;
+  background:#590770
+}

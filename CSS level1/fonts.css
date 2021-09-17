@@ -1,0 +1,35 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF80iswbP22bhDHlHRbjI4JClRBi4KOnYzHw&usqp=CAU);https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF80iswbP22bhDHlHRbjI4JClRBi4KOnYzHw&usqp=CAU
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1
+{
+  color: red;
+  text-align: center;
+  text-decoration-style: green;
+}
+p{
+  color: orange;
+}
+
+.one{
+  color: green;
+  text-align: right;
+  text-decoration: underline;
+  text-decoration-color: aqua;
+
+}
+#skb{
+  color: blue;
+  text-overflow: clip;
+  text-align: left;
+  text-decoration-style: yellow;
+  text-transform: uppercase;
+
+}
+#rocky{
+  color: brown;
+
+}
